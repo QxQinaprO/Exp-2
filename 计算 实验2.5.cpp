@@ -13,5 +13,5 @@ main()
 		if(b%2==0) c=-1;
 		else c=1;
 	}
-	printf("½á¹ûÎª:%d",d);
+	printf("结果为：%d",d);
 } 
