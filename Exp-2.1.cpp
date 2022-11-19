@@ -1,5 +1,5 @@
 //Input a positive interger, judge its odevity.
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 	printf("Input: ");
