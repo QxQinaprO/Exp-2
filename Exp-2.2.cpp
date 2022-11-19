@@ -1,5 +1,5 @@
 //Input a letter,output its uppercase if its a lowercase, while its a capital letter, output itself.
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 	printf("Input: ");
