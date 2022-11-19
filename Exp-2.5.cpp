@@ -1,5 +1,5 @@
 //Calculate 1-3+5-...-99.
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 	int a,b,c,d;
