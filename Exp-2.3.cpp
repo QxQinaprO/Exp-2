@@ -1,6 +1,6 @@
-//Input three positive intergers£¬output the biggest one.
+//Input three positive intergersÂ£Â¬output the biggest one.
 #include<stdio.h>
-main()
+int main()
 {
 	printf("Input(Format: a,b,c): ") ;
 	int a,b,c,d;
@@ -9,4 +9,5 @@ main()
 	else d=b;
 	if(d<c) d=c;
 	printf("The biggest is: %d",d);
+	return 0;
 }
