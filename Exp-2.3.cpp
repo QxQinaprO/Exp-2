@@ -1,5 +1,5 @@
 //Input three positive intergers£¬output the biggest one.
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 	printf("Input(Format: a,b,c): ") ;
