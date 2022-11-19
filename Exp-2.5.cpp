@@ -1,6 +1,6 @@
 //Calculate 1-3+5-...-99.
 #include<stdio.h>
-main()
+int main()
 {
 	int a,b,c,d;
 	b=1;
@@ -14,4 +14,5 @@ main()
 		else c=1;
 	}
 	printf("The answer is: %d",d);
+	return 0;
 } 
