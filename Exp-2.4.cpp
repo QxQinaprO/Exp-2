@@ -1,6 +1,6 @@
 //Input ten positive integers,count and output the number of odd and even numbers.
 #include<stdio.h>
-main()
+int main()
 {
 	printf("Input(Format: a b c ...): "); 
 	int e[10];
@@ -14,4 +14,5 @@ main()
 		if(d!=0) a++;
 	}
 	printf("Number of odd numbers: %d   Number of even numbers: %d",a,b); 
+	return 0;
 } 
