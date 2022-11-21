@@ -4,7 +4,6 @@
 #define MIN(c,d) c > d ? d : c
 #define N 100
 #include <stdio.h>
-
 int main()
 {
 	printf("Input numbers(Format: a b c ... 0): ");
